@@ -1,18 +1,18 @@
 {
   "name": "@interest-protocol/move-bytecode-template",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "description": "WASM variant of the move-binary-format which allows bytecode templates",
   "types": "./move-bytecode-template.d.ts",
-  "main": "./mode-bytecode-template.js",
+  "main": "./move-bytecode-template.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
   },
   "exports": {
     ".": {
-      "source": "./mode-bytecode-template.js",
-      "require": "./mode-bytecode-template.js",
-      "types": "./mode-bytecode-template.d.ts"
+      "source": "./move-bytecode-template.js",
+      "require": "./move-bytecode-template.js",
+      "types": "./move-bytecode-template.d.ts"
     }
   },
   "keywords": [],
