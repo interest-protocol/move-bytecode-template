@@ -729,4 +729,4 @@ async function start() {
 }
 
 export { initSync, start }
-export default start;
+

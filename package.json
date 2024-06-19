@@ -1,6 +1,6 @@
 {
   "name": "@interest-protocol/move-bytecode-template",
-  "version": "0.0.3-alpha",
+  "version": "0.0.4-alpha",
   "description": "WASM variant of the move-binary-format which allows bytecode templates",
   "types": "./move-bytecode-template.d.ts",
   "main": "./index.js",
