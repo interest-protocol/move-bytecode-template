@@ -1,0 +1,1 @@
+export * from './move-bytecode-template.js'
